@@ -1,0 +1,31 @@
+header {
+  height: 10rem;
+  background: rgba(25, 25, 25);
+}
+
+.title {
+  color: white;
+  font-size: 2rem;
+  line-height: 6rem;
+  display: inline-block;
+  text-indent: 10rem;
+}
+
+.nav {
+  margin-left: 10rem;
+}
+
+.nav,
+.nav li {
+  display: inline-block;
+}
+
+.nav li:nth-child(n + 2) {
+  margin-left: 2.5rem;
+}
+
+.nav li a {
+  text-decoration: none;
+  color: #bdbbbb;
+  font-size: 1.5rem;
+}
