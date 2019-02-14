@@ -25,6 +25,7 @@ header {
 }
 
 .nav li a {
+  font-family: -webkit-pictograph;
   text-decoration: none;
   color: #bdbbbb;
   font-size: 1.5rem;

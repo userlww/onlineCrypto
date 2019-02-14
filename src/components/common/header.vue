@@ -6,13 +6,13 @@
         <a href>Home</a>
       </li>
       <li>
-        <a href>About</a>
+        <router-link to="/about">About</router-link>
       </li>
       <li>
-        <a href>Services</a>
+        <router-link to="/services">Services</router-link> 
       </li>
       <li>
-        <a href>Resources</a>
+        <router-link to="/resources">Resources</router-link> 
       </li>
       <li>
         <a href>Blog</a>
